@@ -4,7 +4,9 @@
   "description": "Node.js api for movie reviews",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "debug": "xdg-open http://localhost:8080/debug?port=5858",
+    "postdebug": "node-inspector & node --debug server",
+    "start": "node server"
   },
   "repository": {
     "type": "git",
