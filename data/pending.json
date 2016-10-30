@@ -1,0 +1,23 @@
+[
+  {
+    "publication": "International Movie Critic",
+    "release": "2017",
+    "reviewer": "Chris Harris",
+    "score": 10,
+    "title": "Superman: Homecoming"
+  },
+  {
+    "publication": "TheOne",
+    "release": "2017",
+    "reviewer": "Martin Thomas",
+    "score": 8,
+    "title": "Wonder Woman"
+  },
+  {
+    "publication": "ComicBookHero.com",
+    "release": "2016",
+    "reviewer": "Anthony Miller",
+    "score": 7,
+    "title": "Doctor Strange"
+  }
+]

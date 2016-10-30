@@ -1,0 +1,30 @@
+[
+  {
+    "avatar": "glyphicon-eye-open",
+    "name": "The Daily Reviewer"
+  },
+  {
+    "avatar": "glyphicon-fire",
+    "name": "International Movie Critic"
+  },
+  {
+    "avatar": "glyphicon-time",
+    "name": "MoviesNow"
+  },
+  {
+    "avatar": "glyphicon-record",
+    "name": "MyNextReview"
+  },
+  {
+    "avatar": "glyphicon-heart-empty",
+    "name": "Movies n' Games"
+  },
+  {
+    "avatar": "glyphicon-globe",
+    "name": "TheOne"
+  },
+  {
+    "avatar": "glyphicon-flash",
+    "name": "ComicBookHero.com"
+  }
+]
